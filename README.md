@@ -6,7 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Requirements
  -  Create charts
  -  Create inputs
- -  Modify charts 
+ -  Modify charts
+
+## References
+
+https://blog.logrocket.com/using-chart-js-react/
 ## Available Scripts
 
 In the project directory, you can run:
